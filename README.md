@@ -12,4 +12,4 @@ This Bash script installs the latest **Node.js LTS** version on Debian/Ubuntu-ba
 ## 📦 Installation
 
 ```bash
-curl -sL https://raw.githubusercontent.com/MetaBooy/install-node.sh | bash
+curl -sL https://raw.githubusercontent.com/MetaBooy/nodejs-installer-/refs/heads/main/install-node.sh | bash
