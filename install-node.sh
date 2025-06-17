@@ -2,8 +2,8 @@
 
 # ================================
 # Node.js LTS Installer Script
-# Author: YourNameHere
-# GitHub: https://github.com/yourusername/nodejs-installer
+# Author: MetaBooy
+# GitHub: https://github.com/MetaBooy/nodejs-installer
 # Description: Installs the latest Node.js LTS version with fallbacks and safety checks.
 # ================================
 
