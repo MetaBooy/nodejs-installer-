@@ -110,3 +110,12 @@ else
 fi
 
 show "✅ Node.js installation completed successfully!"
+
+# Author banner
+if ! command -v figlet &> /dev/null; then
+    sudo apt-get update && sudo apt-get install -y figlet
+fi
+
+echo ""
+figlet -f slant "MetaBoy"
+
